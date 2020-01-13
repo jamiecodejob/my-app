@@ -1,0 +1,32 @@
+.hero-profile {
+    text-align: center;
+}
+  
+.hero-profile-list {
+    margin: 50px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.profile {
+    text-align: left;
+    display: block;
+    width: 800px;
+    outline: 1px solid black;
+    padding: 15px 20px;
+}
+
+.saveArea {
+    float: right;
+    margin-top: 140px;
+}
+
+.save {
+    width: 80px;
+    height: 30px;
+    outline: 1px solid black;
+    background: #eee;
+    line-height: 30px;
+    text-align: center;
+}
