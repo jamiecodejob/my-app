@@ -1,0 +1,13 @@
+.card {
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  outline: 1px solid black;
+}
+  
+.title {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: block;
+}
